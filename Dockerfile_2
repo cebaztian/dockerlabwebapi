@@ -1,0 +1,29 @@
+FROM microsoft/iis
+
+# Metadata indicating an image maintainer.
+MAINTAINER Sebastian Burgos sebastian.burgos@live.com
+
+# Install tools and features
+RUN powershell Install-WindowsFeature Web-Mgmt-Service
+RUN powershell Install-WindowsFeature Web-Windows-Auth
+RUN powershell Install-WindowsFeature NET-Framework-45-ASPNET
+RUN powershell Install-WindowsFeature Web-Asp-Net45
+RUN powershell Install-WindowsFeature NET-WCF-HTTP-Activation45
+
+RUN powershell remove-item C:\inetpub\wwwroot\iisstart.*
+
+# Copy files (temporary work folder)
+ RUN md c:\webapi
+ WORKDIR c:/webapi
+ COPY . c:/webapi
+ RUN xcopy c:\webapi c:\inetpub\wwwroot /s
+
+# Ensure permissions
+RUN icacls "C:\inetpub\wwwroot\*" /grant everyone:(OI)(CI)F /T
+RUN icacls "C:\webapi\*" /grant everyone:(OI)(CI)F /T
+
+# RUN powershell -NoProfile -Command \
+#    Import-module IISAdministration; \
+#    New-IISSite -Name "webapi" -PhysicalPath C:\webapi -BindingInformation "*:8000:"
+
+# ADD content/ /webapi

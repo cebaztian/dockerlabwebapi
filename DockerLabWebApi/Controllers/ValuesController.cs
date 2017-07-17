@@ -51,7 +51,7 @@ namespace DockerLabWebApi.Controllers
             double toal = Convert.ToDouble(toalRam / (1024 * 1024));
             int t = Convert.ToInt32(Math.Ceiling(toal / 1024).ToString());
             systemInfo.Add(t.ToString() + " GB");// ram detail
-
+            systemInfo.Add(Properties.Settings.Default.Name);
             return systemInfo;
         }
     }

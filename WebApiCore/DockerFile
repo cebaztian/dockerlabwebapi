@@ -1,0 +1,21 @@
+FROM microsoft/aspnetcore:1.0.1
+WORKDIR /app
+COPY bin/Release/PublishOutput /app
+ENV ASPNETCORE_URLS http://*:80
+EXPOSE 80
+
+ENTRYPOINT /bin/bash -c "dotnet WebApiCore.dll"
+
+#___________________________________________________________-
+#FROM microsoft/dotnet
+#
+#COPY . /app
+#WORKDIR /app
+#
+#RUN ["dotnet", "restore"]
+#RUN ["dotnet", "build"]
+#
+#ENV ASPNETCORE_URLS http://*:80
+#EXPOSE 80
+#
+#ENTRYPOINT ["dotnet", "run"]

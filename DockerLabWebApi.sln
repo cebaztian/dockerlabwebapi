@@ -8,7 +8,11 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{854EB548-4857-4D03-A242-4B871F885B0A}"
 	ProjectSection(SolutionItems) = preProject
 		Dockerfile = Dockerfile
+		Dockerfile_1 = Dockerfile_1
+		Dockerfile_2 = Dockerfile_2
 	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebApiCore", "WebApiCore\WebApiCore.xproj", "{680AF15D-2024-4AD9-8FD8-D90873951AC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +24,10 @@ Global
 		{C4FF24EF-3301-4B0A-B915-EEE05A222E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4FF24EF-3301-4B0A-B915-EEE05A222E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4FF24EF-3301-4B0A-B915-EEE05A222E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680AF15D-2024-4AD9-8FD8-D90873951AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680AF15D-2024-4AD9-8FD8-D90873951AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680AF15D-2024-4AD9-8FD8-D90873951AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680AF15D-2024-4AD9-8FD8-D90873951AC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

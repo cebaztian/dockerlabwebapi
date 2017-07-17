@@ -15,20 +15,10 @@ MAINTAINER Sebastian Burgos sebastian.burgos@live.com
  && nuget install MSBuild.Microsoft.VisualStudio.Web.targets -Version 14.0.0.3 \
  && nuget install WebConfigTransformRunner -Version 1.0.0.1
 
-RUN powershell remove-item C:\inetpub\wwwroot\iisstart.*
+ RUN powershell remove-item C:\inetpub\wwwroot\iisstart.*
 
 # Copy files (temporary work folder)
  RUN md c:\build
  WORKDIR c:/build
  COPY . c:/build
-
-# Restore packages, build, copy
-# RUN nuget restore \
-# && "c:\Program Files (x86)\MSBuild\14.0\Bin\MSBuild.exe" /p:Platform="Any CPU" /p:VisualStudioVersion=12.0 /p:VSToolsPath=c:\MSBuild.Microsoft.VisualStudio.Web.targets.14.0.0.3\tools\VSToolsPath DockerLabWebApi.sln \
-# && xcopy c:\build\* c:\inetpub\wwwroot /s
-
-RUN xcopy c:\build c:\inetpub\wwwroot /s
-
-# Sets a command or process that will run each time a container is run from the new image.
-#CMD [ "ipconfig" ]
-#RUN powershell -command Expand-Archive -Path c:\libraries.zip -DestinationPath c:\
+ RUN xcopy c:\build c:\inetpub\wwwroot /s
