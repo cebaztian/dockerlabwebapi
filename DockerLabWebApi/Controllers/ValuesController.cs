@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Threading.Tasks;
 using System.Web.Http;
 
 namespace DockerLabWebApi.Controllers
@@ -16,7 +17,7 @@ namespace DockerLabWebApi.Controllers
             return GetSystemDetails();
         }
 
-        // GET api/values/5
+        //GET api/values/5
         public string Get(int id)
         {
             return "value";
@@ -40,7 +41,7 @@ namespace DockerLabWebApi.Controllers
         private List<string> GetSystemDetails()
         {
             var systemInfo = new List<string>();
-            systemInfo.Add( Environment.UserName); // User name of PC
+            systemInfo.Add(Environment.UserName); // User name of PC
             //systemInfo.Add(getOSInfo(); // OS version of pc
             systemInfo.Add(Environment.MachineName);// Machine name
             string OStype = "";
