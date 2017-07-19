@@ -1,0 +1,252 @@
+﻿Andorra-Andorra la Vella-84
+United Arab Emirates-Abu Dhabi-4,975,593
+Afghanistan-Kabul-29,121,286
+Antigua and Barbuda-St. John's-86,754
+Anguilla-The Valley-13,254
+Albania-Tirana-2,986,952
+Armenia-Yerevan-2,968,000
+Netherlands Antilles-Willemstad-300
+Angola-Luanda-13,068,161
+Antarctica--0
+Argentina-Buenos Aires-41,343,201
+American Samoa-Pago Pago-57,881
+Austria-Vienna-8,205,000
+Australia-Canberra-21,515,754
+Aruba-Oranjestad-71,566
+Åland-Mariehamn-26,711
+Azerbaijan-Baku-8,303,512
+Bosnia and Herzegovina-Sarajevo-4,590,000
+Barbados-Bridgetown-285,653
+Bangladesh-Dhaka-156,118,464
+Belgium-Brussels-10,403,000
+Burkina Faso-Ouagadougou-16,241,811
+Bulgaria-Sofia-7,148,785
+Bahrain-Manama-738,004
+Burundi-Bujumbura-9,863,117
+Benin-Porto-Novo-9,056,010
+Saint Barthélemy-Gustavia-8,45
+Bermuda-Hamilton-65,365
+Brunei-Bandar Seri Begawan-395,027
+Bolivia-Sucre-9,947,418
+Bonaire--18,012
+Brazil-Brasilia-201,103,330
+Bahamas-Nassau-301,79
+Bhutan-Thimphu-699,847
+Bouvet Island--0
+Botswana-Gaborone-2,029,307
+Belarus-Minsk-9,685,000
+Belize-Belmopan-314,522
+Canada-Ottawa-33,679,000
+Cocos [Keeling] Islands-West Island-628
+Democratic Republic of the Congo-Kinshasa-70,916,439
+Central African Republic-Bangui-4,844,927
+Republic of the Congo-Brazzaville-3,039,126
+Switzerland-Bern-7,581,000
+Ivory Coast-Yamoussoukro-21,058,798
+Cook Islands-Avarua-21,388
+Chile-Santiago-16,746,491
+Cameroon-Yaounde-19,294,149
+China-Beijing-1,330,044,000
+Colombia-Bogota-47,790,000
+Costa Rica-San Jose-4,516,220
+Serbia and Montenegro-Belgrade-10,829,175
+Cuba-Havana-11,423,000
+Cape Verde-Praia-508,659
+Curacao-Willemstad-141,766
+Christmas Island-Flying Fish Cove-1,5
+Cyprus-Nicosia-1,102,677
+Czechia-Prague-10,476,000
+Germany-Berlin-81,802,257
+Djibouti-Djibouti-740,528
+Denmark-Copenhagen-5,484,000
+Dominica-Roseau-72,813
+Dominican Republic-Santo Domingo-9,823,821
+Algeria-Algiers-34,586,184
+Ecuador-Quito-14,790,608
+Estonia-Tallinn-1,291,170
+Egypt-Cairo-80,471,869
+Western Sahara-El-Aaiun-273,008
+Eritrea-Asmara-5,792,984
+Spain-Madrid-46,505,963
+Ethiopia-Addis Ababa-88,013,491
+Finland-Helsinki-5,244,000
+Fiji-Suva-875,983
+Falkland Islands-Stanley-2,638
+Micronesia-Palikir-107,708
+Faroe Islands-Torshavn-48,228
+France-Paris-64,768,389
+Gabon-Libreville-1,545,255
+United Kingdom-London-62,348,447
+Grenada-St. George's-107,818
+Georgia-Tbilisi-4,630,000
+French Guiana-Cayenne-195,506
+Guernsey-St Peter Port-65,228
+Ghana-Accra-24,339,838
+Gibraltar-Gibraltar-27,884
+Greenland-Nuuk-56,375
+Gambia-Banjul-1,593,256
+Guinea-Conakry-10,324,025
+Guadeloupe-Basse-Terre-443
+Equatorial Guinea-Malabo-1,014,999
+Greece-Athens-11,000,000
+South Georgia and the South Sandwich Islands-Grytviken-30
+Guatemala-Guatemala City-13,550,440
+Guam-Hagatna-159,358
+Guinea-Bissau-Bissau-1,565,126
+Guyana-Georgetown-748,486
+Hong Kong-Hong Kong-6,898,686
+Heard Island and McDonald Islands--0
+Honduras-Tegucigalpa-7,989,415
+Croatia-Zagreb-4,284,889
+Haiti-Port-au-Prince-9,648,924
+Hungary-Budapest-9,982,000
+Indonesia-Jakarta-242,968,342
+Ireland-Dublin-4,622,917
+Israel-Jerusalem-7,353,985
+Isle of Man-Douglas-75,049
+India-New Delhi-1,173,108,018
+British Indian Ocean Territory-Diego Garcia-4
+Iraq-Baghdad-29,671,605
+Iran-Tehran-76,923,300
+Iceland-Reykjavik-308,91
+Italy-Rome-60,340,328
+Jersey-Saint Helier-90,812
+Jamaica-Kingston-2,847,232
+Jordan-Amman-6,407,085
+Japan-Tokyo-127,288,000
+Kenya-Nairobi-40,046,566
+Kyrgyzstan-Bishkek-5,776,500
+Cambodia-Phnom Penh-14,453,680
+Kiribati-Tarawa-92,533
+Comoros-Moroni-773,407
+Saint Kitts and Nevis-Basseterre-51,134
+North Korea-Pyongyang-22,912,177
+South Korea-Seoul-48,422,644
+Kuwait-Kuwait City-2,789,132
+Cayman Islands-George Town-44,27
+Kazakhstan-Astana-15,340,000
+Laos-Vientiane-6,368,162
+Lebanon-Beirut-4,125,247
+Saint Lucia-Castries-160,922
+Liechtenstein-Vaduz-35
+Sri Lanka-Colombo-21,513,990
+Liberia-Monrovia-3,685,076
+Lesotho-Maseru-1,919,552
+Lithuania-Vilnius-2,944,459
+Luxembourg-Luxembourg-497,538
+Latvia-Riga-2,217,969
+Libya-Tripoli-6,461,454
+Morocco-Rabat-33,848,242
+Monaco-Monaco-32,965
+Moldova-Chisinau-4,324,000
+Montenegro-Podgorica-666,73
+Saint Martin-Marigot-35,925
+Madagascar-Antananarivo-21,281,844
+Marshall Islands-Majuro-65,859
+Macedonia-Skopje-2,062,294
+Mali-Bamako-13,796,354
+Myanmar [Burma]-Nay Pyi Taw-53,414,374
+Mongolia-Ulan Bator-3,086,918
+Macao-Macao-449,198
+Northern Mariana Islands-Saipan-53,883
+Martinique-Fort-de-France-432,9
+Mauritania-Nouakchott-3,205,060
+Montserrat-Plymouth-9,341
+Malta-Valletta-403
+Mauritius-Port Louis-1,294,104
+Maldives-Male-395,65
+Malawi-Lilongwe-15,447,500
+Mexico-Mexico City-112,468,855
+Malaysia-Kuala Lumpur-28,274,729
+Mozambique-Maputo-22,061,451
+Namibia-Windhoek-2,128,471
+New Caledonia-Noumea-216,494
+Niger-Niamey-15,878,271
+Norfolk Island-Kingston-1,828
+Nigeria-Abuja-154,000,000
+Nicaragua-Managua-5,995,928
+Netherlands-Amsterdam-16,645,000
+Norway-Oslo-5,009,150
+Nepal-Kathmandu-28,951,852
+Nauru-Yaren-10,065
+Niue-Alofi-2,166
+New Zealand-Wellington-4,252,277
+Oman-Muscat-2,967,717
+Panama-Panama City-3,410,676
+Peru-Lima-29,907,003
+French Polynesia-Papeete-270,485
+Papua New Guinea-Port Moresby-6,064,515
+Philippines-Manila-99,900,177
+Pakistan-Islamabad-184,404,791
+Poland-Warsaw-38,500,000
+Saint Pierre and Miquelon-Saint-Pierre-7,012
+Pitcairn Islands-Adamstown-46
+Puerto Rico-San Juan-3,916,632
+Palestine-East Jerusalem-3,800,000
+Portugal-Lisbon-10,676,000
+Palau-Melekeok-19,907
+Paraguay-Asuncion-6,375,830
+Qatar-Doha-840,926
+Réunion-Saint-Denis-776,948
+Romania-Bucharest-21,959,278
+Serbia-Belgrade-7,344,847
+Russia-Moscow-140,702,000
+Rwanda-Kigali-11,055,976
+Saudi Arabia-Riyadh-25,731,776
+Solomon Islands-Honiara-559,198
+Seychelles-Victoria-88,34
+Sudan-Khartoum-35,000,000
+Sweden-Stockholm-9,828,655
+Singapore-Singapore-4,701,069
+Saint Helena-Jamestown-7,46
+Slovenia-Ljubljana-2,007,000
+Svalbard and Jan Mayen-Longyearbyen-2,55
+Slovakia-Bratislava-5,455,000
+Sierra Leone-Freetown-5,245,695
+San Marino-San Marino-31,477
+Senegal-Dakar-12,323,252
+Somalia-Mogadishu-10,112,453
+Suriname-Paramaribo-492,829
+South Sudan-Juba-8,260,490
+São Tomé and Príncipe-Sao Tome-175,808
+El Salvador-San Salvador-6,052,064
+Sint Maarten-Philipsburg-37,429
+Syria-Damascus-22,198,110
+Swaziland-Mbabane-1,354,051
+Turks and Caicos Islands-Cockburn Town-20,556
+Chad-N'Djamena-10,543,464
+French Southern Territories-Port-aux-Francais-140
+Togo-Lome-6,587,239
+Thailand-Bangkok-67,089,500
+Tajikistan-Dushanbe-7,487,489
+Tokelau--1,466
+East Timor-Dili-1,154,625
+Turkmenistan-Ashgabat-4,940,916
+Tunisia-Tunis-10,589,025
+Tonga-Nuku'alofa-122,58
+Turkey-Ankara-77,804,122
+Trinidad and Tobago-Port of Spain-1,328,019
+Tuvalu-Funafuti-10,472
+Taiwan-Taipei-22,894,384
+Tanzania-Dodoma-41,892,895
+Ukraine-Kiev-45,415,596
+Uganda-Kampala-33,398,682
+U.S. Minor Outlying Islands--0
+United States-Washington-310,232,863
+Uruguay-Montevideo-3,477,000
+Uzbekistan-Tashkent-27,865,738
+Vatican City-Vatican City-921
+Saint Vincent and the Grenadines-Kingstown-104,217
+Venezuela-Caracas-27,223,228
+British Virgin Islands-Road Town-21,73
+U.S. Virgin Islands-Charlotte Amalie-108,708
+Vietnam-Hanoi-89,571,130
+Vanuatu-Port Vila-221,552
+Wallis and Futuna-Mata Utu-16,025
+Samoa-Apia-192,001
+Kosovo-Pristina-1,800,000
+Yemen-Sanaa-23,495,361
+Mayotte-Mamoudzou-159,042
+South Africa-Pretoria-49,000,000
+Zambia-Lusaka-13,460,305
+Zimbabwe-Harare-13,061,000

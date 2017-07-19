@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebApiCore", "WebApiCore\WebApiCore.xproj", "{680AF15D-2024-4AD9-8FD8-D90873951AC0}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebApiCoreInvoker", "WebApiCoreInvoker\WebApiCoreInvoker.xproj", "{344AFA80-5C51-48C9-BCF5-B00234DE0425}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{680AF15D-2024-4AD9-8FD8-D90873951AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{680AF15D-2024-4AD9-8FD8-D90873951AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{680AF15D-2024-4AD9-8FD8-D90873951AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{344AFA80-5C51-48C9-BCF5-B00234DE0425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344AFA80-5C51-48C9-BCF5-B00234DE0425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344AFA80-5C51-48C9-BCF5-B00234DE0425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344AFA80-5C51-48C9-BCF5-B00234DE0425}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
